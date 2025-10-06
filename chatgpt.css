@@ -1,0 +1,33 @@
+nav{
+    display:flex;
+    justify-content: space-between;
+}
+button{
+    background-color: aliceblue;
+    color: blue;
+    border: none;
+    border-radius: 30px;
+}
+#input{
+    display:flex;
+    flex-direction: column;
+    justify-self: center;
+    margin-top: 150px;
+    border: 1px solid gainsboro;
+    width:600px;
+    border-radius: 20px;
+}
+#i1{
+    border: none;
+}
+#d1{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+   gap:10px
+}
+#main{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
